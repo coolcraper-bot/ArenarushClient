@@ -1,2 +1,2 @@
-# ArenarushCilnt
-a Minecraft Clint
+# ArenarushClient
+a Minecraft Client
